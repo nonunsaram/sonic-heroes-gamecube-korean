@@ -54,8 +54,8 @@ Sonic_Heroes_GC_JP_Korean_Restoration_v1.0.xdelta
 
 Gecko 코드에는 다음 기능이 포함되어 있습니다.
 
-- **Debug Level Select (All Modes)** — 가장 중요한 디버그 모드 셀렉트 기능
-- Story Mode 전체 레벨 해금
+- **Debug Level Select (All Modes)** — 개발자용 디버그 모드를 해금합니다. 해당 코드를 켠 상태로 챌린지 모드에서 아무 스테이지나 선택하면 진입할 수 있습니다.
+- Story Mode 전체 레벨 해금 - 100% 세이브가 없어도 스토리 모드의 모든 레벨이 해금됩니다.
 - 무적 및 피격 반응 제거
 - 항상 레벨 3 유지
 - 팀 블래스트 게이지 항상 최대
