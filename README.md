@@ -15,6 +15,17 @@
 - `event0402`의 잘못된 합성 글리프 제거 및 역사적 한국어 문구 복원
 - Korean 모드 CG Theater 오른쪽 미리보기 패널의 공식 영문 `SONIC HEROES` 로고 적용
 
+## 복원 기록 요약
+
+이 프로젝트는 일본판 GameCube 디스크에 남아 있던 숨겨진 한국어 언어 경로와 자산을 조사해, 실제 게임의 언어 선택·저장·불러오기 경로에서 한국어가 동작하도록 복원한 작업입니다. Options의 7번째 언어 슬롯 `6 = 한국어`를 활성화하고, Save/System용 다국어 폰트와 Omochao / Help의 한국어 문자 경로를 보완했습니다.
+
+복원판을 기반으로 한 Corrected판에서는 2004년 한국어판의 문체와 자산을 우선 보존하면서, 확인된 고유명사·맞춤법·띄어쓰기·명백한 오역, 누락·깨진 글리프, 미션 목표 그래픽, Stage REL 연결, 컷신·보스 이벤트를 필요한 범위에서 교정했습니다. 마지막으로 실제 언어 저장성, No Memory Card 시작, 메뉴·스테이지·힌트·컷신·CG Theater를 포함한 런타임 QA를 수행했습니다.
+
+자세한 개발 기록은 다음 문서에서 확인할 수 있습니다.
+
+- [전체 복원·교정 기록 및 변경 사항](SONIC_HEROES_GC_KOREAN_RESTORATION_FULL_CHANGELOG.md)
+- [Sonic Heroes GameCube 한국어 복원 기록](SONIC_HEROES_GC_KOREAN_RESTORATION_HISTORY.md)
+
 ## 제공 패치
 
 두 패치는 서로 독립적입니다. 반드시 원본 G9SJ8P ISO에 하나만 적용해 주세요.
