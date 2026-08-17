@@ -1,5 +1,7 @@
 # Sonic Heroes GC Korean Restoration v1.0
 
+Created by 노는사람
+
 비공식 팬 복원 프로젝트입니다. 이 릴리스는 일본판 *Sonic Heroes* GameCube 디스크와 그 안에 남아 있던 한국어 리소스를 바탕으로 한국어 플레이 경험을 복원한 xdelta 패치입니다.
 
 목표는 2004년 한국어판의 분위기와 리소스를 최대한 보존하면서, 확인된 번역 오류·깨진 글리프·누락된 대사·그래픽 문제를 필요한 범위에서 보정하는 것입니다.
@@ -143,12 +145,5 @@ MD5:       F52DE0B95C82DE9D1974CEDD1F185488
 1,459,978,240 bytes
 ```
 
-## 크레딧
-
-- Sonic Heroes GC Korean Restoration Project contributors
-- 한국어 리소스 검토 및 플레이테스트 참여자
-- 원본 GameCube 리소스 및 한국어 폰트 연구에 기여한 자료 제공자
-- xdelta3 프로젝트
-- Dolphin Emulator 프로젝트 및 관련 디버깅 도구
 
 이 프로젝트는 Sega의 공식 제품이나 공식 번역 패치가 아닙니다. 저작권이 있는 게임 ISO는 배포하지 않으며, 사용자는 합법적으로 취득한 원본 디스크에서 직접 ISO를 만들어 사용해야 합니다. 배포 대상은 이 프로젝트의 패치와 문서뿐입니다.
