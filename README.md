@@ -45,6 +45,29 @@ Sonic_Heroes_GC_JP_Korean_Restoration_v1.0.xdelta
 
 일본판 GameCube 디스크에 남아 있던 한국어 복원 데이터를 중심으로, 원래 한국어판의 표현과 리소스를 최대한 유지하는 보수적 복원판입니다.
 
+## 추가 자료: 세이브 및 Gecko 코드
+
+개발·검증 과정에서 제작한 G9SJ8P 일본판용 자료도 함께 제공합니다.
+
+- [Sonic Heroes JP 100% Save](extras/Sonic_Heroes_JP_100Percent_Save.gci) — 스토리와 주요 콘텐츠가 해금된 100% 세이브
+- [Sonic Heroes JP Gecko Codes G9SJ8P](extras/Sonic_Heroes_JP_Gecko_Codes_G9SJ8P.ini) — Dolphin용 Gecko 코드 설정 파일
+
+Gecko 코드에는 다음 기능이 포함되어 있습니다.
+
+- **Debug Level Select (All Modes)** — 가장 중요한 디버그 모드 셀렉트 기능
+- Story Mode 전체 레벨 해금
+- 무적 및 피격 반응 제거
+- 항상 레벨 3 유지
+- 팀 블래스트 게이지 항상 최대
+
+Dolphin에서는 게임 속성의 Gecko Codes 탭에서 코드를 확인·활성화하거나, 설정 파일을 다음 위치에 복사할 수 있습니다.
+
+```text
+C:\Users\<사용자명>\AppData\Roaming\Dolphin Emulator\GameSettings\G9SJ8P.ini
+```
+
+사용 중인 Dolphin의 사용자 폴더 위치가 다르면 Dolphin의 `Open User Folder`에서 `GameSettings` 폴더를 찾아 주세요. `.gci` 세이브는 Dolphin 메모리 카드 관리 기능으로 가져오면 됩니다.
+
 ## 설치 방법
 
 ### 필요한 파일
