@@ -1,0 +1,25 @@
+Sonic Heroes GC Korean — English Voice v1.1.0 Final
+Author: nonunsaram
+User runtime confirmation: 2026-10-04
+
+SOURCE (both patches)
+Sonic Heroes (USA) (En,Ja,Fr,De,Es,It).iso
+Game ID: G9SE8P / Disc 0 / Revision 0
+Size: 1459978240 bytes
+SHA256: 1F90FAD188B0904AC4C5F615F5553B3614694EEE7D22B87C54D988B0928DAC78
+
+PATCHES
+D8BC66B82A1A6CB9141D0E8CCAEEE453FB77D6B9E961EDC17BB2351AF10148A0  Sonic_Heroes_GC_USA_Korean_Restoration_v1.1.0.xdelta
+44FDA7B15A7BB35C6223450404E6F34488CE326B8F82DEF8169DE6A358660809  Sonic_Heroes_GC_USA_Korean_Correction_v1.1.0.xdelta
+
+OUTPUT: RESTORATION
+Size: 1459978240 bytes
+SHA256: 2470A713D5FBD468E92E07CB9A433FFD292F8EF90ECEBF9A08755BDB66D0CC7B
+
+OUTPUT: CORRECTION
+Size: 1459978240 bytes
+SHA256: EC274CA1C01BE8E38F5E0CE059EB9018EB7331D7BE5BCC0C0CC6EAA4A7782EDC
+
+Apply ONE patch directly to the clean USA source.
+The two final patches are byte-identical to the tested Restoration RC2
+and Correction RC3 patches. Only their distribution filenames changed.
